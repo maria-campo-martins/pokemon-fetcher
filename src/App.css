@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.App > * {
+  padding: 10px;
+}
+
+h1 {
+  color: red;
+}
